@@ -3,4 +3,34 @@
 @font-face {
     font-family: 'idroid';
     src: url('fontes/idroid.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.titulo-principal {
+    text-align: center;
+    
+}
+
+a.footer {
+    text-decoration: none;
+}
+
+footer {
+    background-color: green;
+    padding-top: 0em;
+}
+
+h1 {
+    font-family: 'idroid', Times, serif;
+    color: rgb(0, 58, 0);
+}
+
+h2 {
+    font-family: 'idroid', Times, serif;
+    color: darkgreen;
+}
+
+.sub-titulo {
+    text-align: center;
 }
