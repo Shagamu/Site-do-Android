@@ -7,14 +7,22 @@
     font-style: normal;
 }
 
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(85, 187, 85);
+}
+
 .titulo-principal {
     text-align: center;
     height: 3em;
+    margin: 0px;
 }
 
 nav > a {
     text-decoration: none;
     color: white;
+    margin: 10px;
 }
 
 nav > a:hover {
@@ -25,6 +33,12 @@ nav > a:hover {
 header {
     background-color: green;
     color: white;
+    margin: 0px;
+}
+
+main {
+    margin-top: 0px;
+    background-color: white;
 }
 
 h1 {
@@ -60,11 +74,8 @@ main > section > article > p > a:hover {
     text-align: center;
 }
 
-main {
-    background-color: rgb(85, 187, 85);
-}
-
 footer {
+    margin: 0px;
     background-color: rgb(6, 77, 6);
     color: white;
 }
