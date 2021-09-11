@@ -12,13 +12,14 @@
     
 }
 
-a.footer {
+nav {
     text-decoration: none;
 }
 
-footer {
+header {
     background-color: green;
-    padding-top: 0em;
+    margin: 1px;
+    
 }
 
 h1 {
