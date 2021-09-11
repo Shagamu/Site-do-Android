@@ -63,6 +63,66 @@ h2 {
     color: darkgreen;
 }
 
+.dan {
+    text-decoration: none;
+    color: darkgreen;
+}
+
+.dan:hover {
+    color: rgb(0, 58, 0);
+    text-decoration: underline;
+}
+
+.inkscape {
+    text-decoration: none;
+    color: darkgreen;
+}
+
+.inkscape:hover {
+    color: rgb(0, 58, 0);
+    text-decoration: underline;
+}
+
+.irina {
+    text-decoration: none;
+    color: darkgreen;
+}
+
+.irina:hover {
+    color: rgb(0, 58, 0);
+    text-decoration: underline;
+}
+
+.bugdroid {
+    text-decoration: none;
+    color: darkgreen;
+}
+
+.bugdroid:hover {
+    color: rgb(0, 58, 0);
+    text-decoration: underline;
+}
+
+.history {
+    text-decoration: none;
+    color: darkgreen;
+}
+
+.history:hover {
+    color: rgb(0, 58, 0);
+    text-decoration: underline;
+}
+
+.android {
+    text-decoration: none;
+    color: darkgreen;
+}
+
+.android:hover {
+    color: rgb(0, 58, 0);
+    text-decoration: underline;
+}
+
 .sub-titulo {
     text-align: center;
 }
