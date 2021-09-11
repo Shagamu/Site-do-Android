@@ -12,40 +12,14 @@
     height: 3em;
 }
 
-.home {
-    color: white;
+nav > a {
     text-decoration: none;
-}
-
-.home:hover {
-    color: rgb(0, 36, 0);
-}
-
-.noticias {
     color: white;
-    text-decoration: none;
 }
 
-.noticias:hover {
+nav > a:hover {
     color: rgb(0, 36, 0);
-}
-
-.curiosidades {
-    color: white;
-    text-decoration: none;
-}
-
-.curiosidades:hover {
-    color: rgb(0, 36, 0);
-}
-
-.faleconosco {
-    color: white;
-    text-decoration: none;
-}
-
-.faleconosco:hover {
-    color: rgb(0, 36, 0);
+    text-decoration: underline;
 }
 
 header {
@@ -63,66 +37,25 @@ h2 {
     color: darkgreen;
 }
 
-.dan {
+main > section > p > a {
     text-decoration: none;
     color: darkgreen;
 }
 
-.dan:hover {
+main > section > p > a:hover {
     color: rgb(0, 58, 0);
     text-decoration: underline;
 }
 
-.inkscape {
+main > section > article > p > a {
     text-decoration: none;
     color: darkgreen;
 }
 
-.inkscape:hover {
+main > section > article > p > a:hover {
     color: rgb(0, 58, 0);
     text-decoration: underline;
 }
-
-.irina {
-    text-decoration: none;
-    color: darkgreen;
-}
-
-.irina:hover {
-    color: rgb(0, 58, 0);
-    text-decoration: underline;
-}
-
-.bugdroid {
-    text-decoration: none;
-    color: darkgreen;
-}
-
-.bugdroid:hover {
-    color: rgb(0, 58, 0);
-    text-decoration: underline;
-}
-
-.history {
-    text-decoration: none;
-    color: darkgreen;
-}
-
-.history:hover {
-    color: rgb(0, 58, 0);
-    text-decoration: underline;
-}
-
-.android {
-    text-decoration: none;
-    color: darkgreen;
-}
-
-.android:hover {
-    color: rgb(0, 58, 0);
-    text-decoration: underline;
-}
-
 .sub-titulo {
     text-align: center;
 }
