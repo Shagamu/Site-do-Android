@@ -9,17 +9,48 @@
 
 .titulo-principal {
     text-align: center;
-    
+    height: 3em;
 }
 
-nav {
+.home {
+    color: white;
     text-decoration: none;
+}
+
+.home:hover {
+    color: rgb(0, 36, 0);
+}
+
+.noticias {
+    color: white;
+    text-decoration: none;
+}
+
+.noticias:hover {
+    color: rgb(0, 36, 0);
+}
+
+.curiosidades {
+    color: white;
+    text-decoration: none;
+}
+
+.curiosidades:hover {
+    color: rgb(0, 36, 0);
+}
+
+.faleconosco {
+    color: white;
+    text-decoration: none;
+}
+
+.faleconosco:hover {
+    color: rgb(0, 36, 0);
 }
 
 header {
     background-color: green;
-    margin: 1px;
-    
+    color: white;
 }
 
 h1 {
@@ -34,4 +65,13 @@ h2 {
 
 .sub-titulo {
     text-align: center;
+}
+
+main {
+    background-color: rgb(85, 187, 85);
+}
+
+footer {
+    background-color: rgb(6, 77, 6);
+    color: white;
 }
