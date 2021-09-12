@@ -22,7 +22,7 @@ body {
 nav > a {
     text-decoration: none;
     color: white;
-    margin: 10px;
+    margin: 15px;
 }
 
 nav > a:hover {
@@ -37,16 +37,20 @@ header {
 }
 
 main {
-    margin-top: 0px;
     background-color: white;
+    padding: 50px;
+    margin: 0px 130px 13px 130px;
+    border-radius: 0px 0px 10px 10px;
 }
 
 h1 {
     font-family: 'idroid', Times, serif;
     color: rgb(0, 58, 0);
+    margin: 0px;
 }
 
 h2 {
+    background-color: rgba(85, 187, 85, 0.418);
     font-family: 'idroid', Times, serif;
     color: darkgreen;
 }
@@ -75,7 +79,13 @@ main > section > article > p > a:hover {
 }
 
 footer {
-    margin: 0px;
-    background-color: rgb(6, 77, 6);
+    background-color: rgb(4, 59, 4);
     color: white;
+    text-align: center;
+    padding: 7px;
+    margin: 0px;
+}
+
+footer > p {
+    margin: 0px;
 }
